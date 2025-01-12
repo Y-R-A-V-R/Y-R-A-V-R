@@ -18,8 +18,6 @@ I am a dedicated Data Scientist and Machine Learning enthusiast with a strong ba
 ### Programming Languages
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch)
 - **SQL**
-- **R** (ggplot2, dplyr, caret)
-- **HTML**, **CSS**, **JavaScript** (for interactive dashboards and web applications)
 
 ### Tools & Frameworks
 - **Machine Learning**: Scikit-learn, XGBoost, LightGBM
