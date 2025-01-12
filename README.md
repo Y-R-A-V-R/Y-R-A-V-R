@@ -37,7 +37,7 @@ I am a dedicated Data Scientist and Machine Learning enthusiast with a strong ba
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/adithya-vardhan-reddy)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yravr/)].
 
 ---
 
